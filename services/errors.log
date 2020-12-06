@@ -1,0 +1,32 @@
+2020-12-06T14:37:30.360Z [undefined] [31merror[39m: Cannot read property 'Symbol(mongoose#Document#scope)' of undefined 
+
+2020-12-06T14:39:47.357Z [undefined] [31merror[39m: Cannot read property 'Symbol(mongoose#Document#scope)' of undefined 
+
+2020-12-06T14:40:21.252Z [undefined] [31merror[39m: Cannot read property 'Symbol(mongoose#Document#scope)' of undefined 
+
+2020-12-06T14:44:14.436Z [undefined] [31merror[39m: document must have an _id before saving 
+
+2020-12-06T14:44:29.059Z [undefined] [31merror[39m: document must have an _id before saving 
+
+2020-12-06T14:47:12.405Z [undefined] [31merror[39m: document must have an _id before saving 
+
+2020-12-06T14:50:57.973Z [undefined] [31merror[39m: document must have an _id before saving 
+
+2020-12-06T14:51:13.579Z [undefined] [31merror[39m: document must have an _id before saving 
+
+2020-12-06T14:53:23.738Z [undefined] [31merror[39m: E11000 duplicate key error collection: smsindia.datas index: id_1 dup key: { id: 2 } 
+
+2020-12-06T15:07:14.897Z [undefined] [31merror[39m: id is not defined 
+
+2020-12-06T15:07:39.815Z [undefined] [31merror[39m: E11000 duplicate key error collection: smsindia.datas index: id_1 dup key: { id: 2 } 
+
+2020-12-06T15:12:09.643Z [undefined] [31merror[39m: data.findOneAndUpdate is not a function 
+
+2020-12-06T15:13:32.614Z [undefined] [31merror[39m: E11000 duplicate key error collection: smsindia.datas index: id_1 dup key: { id: 2 } 
+
+2020-12-06T15:22:21.612Z [undefined] [31merror[39m: E11000 duplicate key error collection: smsindia.datas index: id_1 dup key: { id: 1 } 
+
+2020-12-06T17:04:11.429Z [Update document requires atomic operators] [31merror[39m: Data insertion Error 
+
+2020-12-06T17:09:02.522Z [E11000 duplicate key error collection: smsindia.datas index: id_1 dup key: { id: 1 }] [31merror[39m: Data insertion Error 
+
